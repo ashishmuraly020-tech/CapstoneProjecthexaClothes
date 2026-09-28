@@ -28,7 +28,9 @@ H. Place Order
 Testing Documents:
 
 Test Plan, Summary and SignOff → https://docs.google.com/document/d/1f2AxuJS8mAtojBjXzj1z5ceb9GG1nLvf_y3Qofrpe6k/edit?tab=t.0
+
 Test Cases → https://docs.google.com/spreadsheets/d/1RM9ZEQyUyDeag8sgIax68StW_qLL-cop/edit?gid=131660335#gid=131660335
+
 Defect Report → https://docs.google.com/spreadsheets/d/1RM9ZEQyUyDeag8sgIax68StW_qLL-cop/edit?gid=868418681#gid=868418681
 
 
